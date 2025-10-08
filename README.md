@@ -15,10 +15,10 @@ The paper is currently under review. Please cite this repository until an offici
 
 ```bibtex
 @misc{rewardgaze2025,
-  title   = {Reward-based Modeling of Goal-directed Gaze Control},
-  author  = {Ahn, Seo-Young},
-  year    = {2025},
-  note    = {Under review},
+  title        = {Reward-based Modeling of Goal-directed Gaze Control},
+  author       = {Ahn, Seo-Young and Yang, Zhibo and Mondal, Sounak and Xue, Ruoyu and Hoai, Minh and Samaras, Dimitris and Zelinsky, Gregory J.},
+  year         = {2025},
+  note         = {Under review},
   howpublished = {\url{https://github.com/RewardGaze}}
 }
 ```
